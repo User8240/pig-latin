@@ -24,7 +24,7 @@ _This README is written in Markdown_
 
 ## License
 
-_none_
+_MIT License_
 
 Copyright (c) _6/8/2022_ _Grace Kostanich & Derrak Richard_
 
