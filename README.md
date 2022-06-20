@@ -1,3 +1,34 @@
+# _Pig latin_
+
+#### By _**Grace Kostanich & Derrak Richard**_
+
+#### _A README file containing a set of practice tests to create a webpage that changes words in a sentence to pig latin!_
+
+## Technologies Used
+
+* _Markdown_
+
+## Description
+
+_This README is written in Markdown_
+
+## Setup/Installation Requirements
+
+* _Fork project to your own GitHub repository_ 
+* _Clone that repository to your desktop_
+* _Open README.md file if you'd like!_
+
+## Known Bugs
+
+* _No known issues_
+
+## License
+
+_none_
+
+Copyright (c) _6/8/2022_ _Grace Kostanich & Derrak Richard_
+
+----------------------------------------------------------------------
 Describe: pigLatinVowelFirst()
 
 Test: "It will add 'way' to the end of words that begin with a single vowel (a)."
